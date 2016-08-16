@@ -16,11 +16,12 @@
 // along with this program. If not, see <http://www.gnu.org/licenses/>.
 //
 
-
+//I add something here
 #include "scy/http/authenticator.h"
 #include "scy/http/request.h"
 #include "scy/http/response.h"
 #include "scy/base64.h"
+//and here 
 
 
 namespace scy {
